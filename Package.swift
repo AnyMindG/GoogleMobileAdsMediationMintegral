@@ -2,7 +2,7 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
-
+// v1.2.0
 let package = Package(
     name: "GoogleMobileAdsMediationMintegral",
     products: [
@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMobileAdsMediationMintegral",
-            url: "https://github.com/AnyMindG/AllFrameworks/releases/download/10000.2.0/GoogleMobileAdsMediationInMobi.zip",
-            checksum: "db278d1b4a74d1422776666a7c00ea69d23b6e6fd37031a479aeb896214468ef"
+            url: "https://github.com/AnyMindG/AllFrameworks/releases/download/10000.21.0/GoogleMobileAdsMediationMintegral.zip",
+            checksum: "047605e45bac8ef2c1c1cf98aa8e5c29aa5c5dc65a57b77167f409e096ebe688"
         )
     ]
 )
